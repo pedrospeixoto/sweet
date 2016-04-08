@@ -1,2 +1,4 @@
 build
 FFTW_*
+*.csv
+*.tmp
